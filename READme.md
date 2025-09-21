@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Transformers&size=80&pause=1000&color=0000FF&center=true&width=1000&height=150&lines=EF-PRIME-MD-V2" alt="Typing SVG - EF-PRIME-MD-V2" />
+    <img src="https://readme-typing-svg.demolab.com?font=Transformers&size=80&pause=1000&color=0000FF&center=true&width=1000&height=150&lines=EF-PRIME-MD-ULTRA" alt="Typing SVG - EF-PRIME-MD-ULTRA" />
 </div>
 
 <div align="center">
