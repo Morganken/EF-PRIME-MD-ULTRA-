@@ -69,6 +69,7 @@
     "human-readable": "^0.2.1",
     "jimp": "^1.6.0",
     "jsdom": "^21.1.0",
+    "exif-parser": "*"
     "lowdb": "^2.1.0",
     "md5": "^2.3.0",
     "mongoose": "^7.3.4",
